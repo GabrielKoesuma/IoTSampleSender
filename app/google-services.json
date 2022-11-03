@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "830803887321",
+    "project_id": "ukm-firebase-integration-1e42e",
+    "storage_bucket": "ukm-firebase-integration-1e42e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830803887321:android:29c754284cc435bed72ac8",
+        "android_client_info": {
+          "package_name": "com.ukm.firebaseintegration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830803887321-b5dora3vjiicr7n5rqnmv42a2kb4upah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv4CJsy8dil1bhRBQk7MoDXbhQ2XUdaHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830803887321-b5dora3vjiicr7n5rqnmv42a2kb4upah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830803887321:android:46116e30e06ba481d72ac8",
+        "android_client_info": {
+          "package_name": "com.ukm.iotsamplesender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830803887321-b5dora3vjiicr7n5rqnmv42a2kb4upah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv4CJsy8dil1bhRBQk7MoDXbhQ2XUdaHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830803887321-b5dora3vjiicr7n5rqnmv42a2kb4upah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830803887321:android:6d457b062e6985fcd72ac8",
+        "android_client_info": {
+          "package_name": "com.ukm.iotsamplesubscriber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830803887321-b5dora3vjiicr7n5rqnmv42a2kb4upah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv4CJsy8dil1bhRBQk7MoDXbhQ2XUdaHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830803887321-b5dora3vjiicr7n5rqnmv42a2kb4upah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
